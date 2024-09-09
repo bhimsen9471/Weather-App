@@ -3,7 +3,7 @@
 
 By Bhimsen Kumar
 
-Take a look at live version: 
+Take a look at live version: https://bhimsen9471.github.io/Weather-App/
 
 Description :
 
