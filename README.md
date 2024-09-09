@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # Weather-App
 
+By Bhimsen Kumar
+
+Take a look at live version: 
+
 Description :
 
 The Weather App is a user-friendly application designed to provide real-time weather information for cities worldwide.
